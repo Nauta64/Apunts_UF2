@@ -5,13 +5,13 @@
 - Identificar els diferents tipus de proves.
 - Definir casos de prova.
 - Efectuar proves unitàries de classes i funcions.
-- Efectuar proves d'integració, de sistema i d'acceptació.
+- Efectuar proves d'integració, del sistema i d'acceptació.
 - Realitzar mesures de qualitat sobre el programari desenvolupat.
 
 
 ### OBJECTIUS PROVES
 
-Les proves es centren en dos objectius:
+Les proves es centren basicament en dos objectius:
 1. Provar si el programari no fa el que ha de fer.
 2. Provar si el programari fa el que no ha de fer.
 
@@ -30,7 +30,7 @@ Es un model molt semblant a el model en cascada.
 
 ### FRAMEWORK
 
-Els framework estan compostos per:
+Els framework estan compostos de:
 
 - un conjunt de les millors pràctiques i suposicions
 - eines comunes
@@ -43,7 +43,7 @@ Permet unificar el procés de desenvolupament entre desenvolupadors.
 
 ## **PROVES**
 
-Tenim dos tipus:
+Hi han dos tipus:
 
 - **Proves dinàmiques:** Requereixen l'execució de l'aplicació. Permeten mesurar el comportament de l'aplicació desenvolupada.
 
