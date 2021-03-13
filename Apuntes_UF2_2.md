@@ -46,16 +46,16 @@ Técnicas:
 - Eliminar código redundante 
 - Eliminar código muerto
 
-### Documentacion
+## Documentacion
 
 
-#### Tipos de documentación
+### Tipos de documentación
 
 - Documentación de código
 - Documentación técnica
 - Documentación de usuario
 
-#### Formatos de documentación
+### Formatos de documentación
 
 - HTML (p. ej. Javadoc)
 - Markdown (p. ej. Gitbook)
